@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAGPOD", "DAGPOD.vcxproj", "{E72C2979-2497-423B-9A46-C8D716E1EB32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Debug|x64.ActiveCfg = Debug|x64
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Debug|x64.Build.0 = Debug|x64
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Debug|x86.ActiveCfg = Debug|Win32
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Debug|x86.Build.0 = Debug|Win32
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Release|x64.ActiveCfg = Release|x64
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Release|x64.Build.0 = Release|x64
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Release|x86.ActiveCfg = Release|Win32
+		{E72C2979-2497-423B-9A46-C8D716E1EB32}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96235D8A-143F-4B85-9046-74D84DA03576}
+	EndGlobalSection
+EndGlobal
