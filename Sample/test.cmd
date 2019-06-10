@@ -1,0 +1,1 @@
+start MINGW32_DAGPOD -notfirst -get -src 1.jpg -dst 1.jpg -email testappapp@outlook.com -passwd DemoAppTest

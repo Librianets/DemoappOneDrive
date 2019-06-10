@@ -35,3 +35,8 @@ Programm.exe -nofirst -get -src picture.jpg -dst d:/multimedia/picture.jpg -emai
 Programm.exe -nofirst -put -dst picture.jpg -src d:/multimedia/picture.jpg -email test@test.com - passwd TestTest
 
 Programm.exe -first -put -dst picture.jpg -src d:/multimedia/picture.jpg -email test@test.com - passwd TestTest
+
+Сборка
+1. При наличии mingw32 на борту, с помощью make -f makefile
+2. При наличии VS19, в папке DAGPOD имеется DAGPOD.sln
+В папке Sample собраны 2 образца из под mingw и vs19
